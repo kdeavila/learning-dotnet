@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypes", "ValueTypes\Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{64C39AEA-B1D1-46A0-ACE4-BF35876D1473}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringParsing", "StringParsing\StringParsing.csproj", "{C58CD4CA-9666-4AD2-9734-64BCC3D66DB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "DateTime\DateTime.csproj", "{AC8C7722-A494-4FE3-B112-EF8A5DE8E7AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{64C39AEA-B1D1-46A0-ACE4-BF35876D1473}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64C39AEA-B1D1-46A0-ACE4-BF35876D1473}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64C39AEA-B1D1-46A0-ACE4-BF35876D1473}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C58CD4CA-9666-4AD2-9734-64BCC3D66DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C58CD4CA-9666-4AD2-9734-64BCC3D66DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C58CD4CA-9666-4AD2-9734-64BCC3D66DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C58CD4CA-9666-4AD2-9734-64BCC3D66DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8C7722-A494-4FE3-B112-EF8A5DE8E7AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8C7722-A494-4FE3-B112-EF8A5DE8E7AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8C7722-A494-4FE3-B112-EF8A5DE8E7AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8C7722-A494-4FE3-B112-EF8A5DE8E7AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
