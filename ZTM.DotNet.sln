@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchExpressions", "Interm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Intermediate\Structs\Structs.csproj", "{AE146CD4-6C80-4043-806F-BDC3B72D0262}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsArguments", "Intermediate\MethodsArguments\MethodsArguments.csproj", "{00CCF86C-0B18-4502-998F-6C51B11E7101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{AE146CD4-6C80-4043-806F-BDC3B72D0262}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE146CD4-6C80-4043-806F-BDC3B72D0262}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE146CD4-6C80-4043-806F-BDC3B72D0262}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CCF86C-0B18-4502-998F-6C51B11E7101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CCF86C-0B18-4502-998F-6C51B11E7101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CCF86C-0B18-4502-998F-6C51B11E7101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CCF86C-0B18-4502-998F-6C51B11E7101}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -230,6 +236,7 @@ Global
 		{A033BBF7-B0E7-421C-9F2C-AA1F82E45891} = {F88CD921-46B8-4378-83C0-9E48B9B2EFE9}
 		{244A1A74-26AC-43FC-844D-3BD7D78A7B8D} = {F88CD921-46B8-4378-83C0-9E48B9B2EFE9}
 		{AE146CD4-6C80-4043-806F-BDC3B72D0262} = {F88CD921-46B8-4378-83C0-9E48B9B2EFE9}
+		{00CCF86C-0B18-4502-998F-6C51B11E7101} = {F88CD921-46B8-4378-83C0-9E48B9B2EFE9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
