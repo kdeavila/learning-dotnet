@@ -1,85 +1,44 @@
 # 🧠 Learning .NET from ZTM
 
-![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=.net)
-![C#](https://img.shields.io/badge/C%23-learning-blue?logo=csharp)
+![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=.net)  
+![C#](https://img.shields.io/badge/C%23-learning-blue?logo=csharp)  
 ![Status](https://img.shields.io/badge/progress-ongoing-yellow)
 
-This repository contains my solutions and practice projects from the **.NET course by Zero to Mastery (ZTM)**.
-Each folder represents a hands‑on exercise or concept using **C# and the .NET SDK**.
+This repository contains my hands‑on solutions and practice projects from the **.NET course by Zero to Mastery (ZTM)**. I organize exercises by topic to reinforce key C# and .NET concepts.
 
 ---
 
 ## 📁 Repository Structure
 
-- **Basics/**: Fundamental C# concepts
-- **Intermediate/**: Intermediate topics to deepen understanding
-- **OOP/**: Object-Oriented Programming pillars in action
+- **Arrays and Collections/**  
+- **Basics/** (conditionals, loops, operators, strings, I/O, etc.)  
+- **Intermediate/** (enums, exception handling, structs, switch expressions, methods arguments, etc.)  
+- **OOP/** (classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples)
 
-
-## 📂 Included Projects
-
-### Basics
-| Project Folder                 | Description                                                        |
-|--------------------------------|--------------------------------------------------------------------|
-| `CalculatorProject`            | Simple calculator console app                                      |
-| `Conditionals`                 | Basic conditionals using `if`, `else`, and logical expressions     |
-| `ConsoleInput`                 | Read and process user input from the console                       |
-| `DateTime`                     | Handling and manipulating date and time                            |
-| `Exercise-loop-conditional`    | Combining loops and conditionals to solve problems                 |
-| `HelloWorld`                   | Classic "Hello, World!" program                                   |
-| `HelloWorldExplicit`           | A more explicit version of the Hello World program                 |
-| `IterationStatements`          | Usage of loops like `for`, `while`, and `do-while`                 |
-| `Operators`                    | Explore arithmetic, relational, and logical operators              |
-| `ProgramArguments`             | Demonstrates command‑line argument handling                        |
-| `ProgramArgumentsExplicit`     | More detailed handling of command‑line arguments                   |
-| `StringParsing`                | Convert strings to numeric values and handle parsing errors        |
-| `Strings`                      | Work with string manipulation, formatting, and interpolation       |
-| `SwitchStatements`             | Learn how to use `switch` for multiple condition branches          |
-| `ValueTypes`                   | Explore C# value types such as `int`, `float`, `bool`, etc.       |
-
-### Intermediate
-| Project Folder                 | Description                                                        |
-|--------------------------------|--------------------------------------------------------------------|
-| `Const`                        | Understanding constants and their usage                            |
-| `ImplicitTyping`               | Using `var` and type inference                                     |
-
-### OOP
-| Project Folder                 | Description                                                        |
-|--------------------------------|--------------------------------------------------------------------|
-| `AdvancedVariablesScope`       | Variable scope and access modifiers                                |
-| `BasicClass`                   | Introduction to classes and objects                                |
-| `HouseQuest`                   | Use case: building a `House` class with age and sellable logic    |
-| `Inheritance`                  | Creating class hierarchies and reusing code                        |
-| `Interfaces`                   | Defining and implementing interfaces                               |
-| `MethodOverloading`            | Overloading methods to handle different parameter sets             |
-| `Namespaces`                   | Organizing code with namespaces                                    |
-| `Polymorphism`                 | Demonstrating polymorphic behavior with virtual/override methods   |
-| `ProjectAccountingSystem`      | Building a simple accounting system with checking and premium accounts |
-| `StaticMembers`                | Using static fields and methods                                    |
+> **Tip:** Browse each folder to see detailed implementations and exercises.
 
 ---
 
-## 🚀 How to Run a Project
+## 🚀 Getting Started
 
-1. **Clone the repository**:
+1. **Clone the repo**:
    ```bash
    git clone https://github.com/kdeavila/learning-dotnet-from-ztm.git
    cd learning-dotnet-from-ztm
    ```
-2. **Navigate to the desired project folder**:
+2. **Open the solution** (`.sln`) in Visual Studio or your preferred editor.
+3. **Navigate** to any exercise folder and run:
    ```bash
-   cd Basics/HelloWorld
    dotnet run
    ```
 
-> [!TIP]
-> Always open the `.sln` file in Visual Studio to keep your projects properly linked.
+> 💡 Keep your projects linked by opening the top-level `.sln` file.
 
 ---
 
 ## 🧠 Why This Repo?
 
-This repository documents my journey from frontend to backend development. I’m learning C#, .NET, and general backend concepts through small, hands‑on exercises that reinforce theoretical knowledge.
+From a frontend background, I’m learning C#, .NET, and backend fundamentals through small, focused exercises. Each folder tackles a specific topic to solidify concepts.
 
 ---
 
