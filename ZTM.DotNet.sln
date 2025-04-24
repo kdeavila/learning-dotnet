@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue", "Arrays and Collect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Arrays and Collections\Dictionary\Dictionary.csproj", "{CC63B885-6942-437C-895A-24AEAF017EC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RacingCalendar", "Arrays and Collections\RacingCalendar\RacingCalendar.csproj", "{B5332EFF-4CF1-46D0-B9FD-E1E160576D1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -245,6 +247,10 @@ Global
 		{CC63B885-6942-437C-895A-24AEAF017EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC63B885-6942-437C-895A-24AEAF017EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC63B885-6942-437C-895A-24AEAF017EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5332EFF-4CF1-46D0-B9FD-E1E160576D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5332EFF-4CF1-46D0-B9FD-E1E160576D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5332EFF-4CF1-46D0-B9FD-E1E160576D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5332EFF-4CF1-46D0-B9FD-E1E160576D1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +294,7 @@ Global
 		{97256608-C9EB-47AA-A20B-6F3F2D9BDA9A} = {21D1A975-73DD-47A9-9380-5E70DC756B44}
 		{4F3A687F-845F-4B37-BF27-B889B3035173} = {21D1A975-73DD-47A9-9380-5E70DC756B44}
 		{CC63B885-6942-437C-895A-24AEAF017EC3} = {21D1A975-73DD-47A9-9380-5E70DC756B44}
+		{B5332EFF-4CF1-46D0-B9FD-E1E160576D1C} = {21D1A975-73DD-47A9-9380-5E70DC756B44}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
