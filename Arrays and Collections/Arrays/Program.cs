@@ -36,13 +36,10 @@ Console.WriteLine(persons);
 var person0 = persons[0];
 Console.WriteLine(person0.Name);
 
-
 foreach (Person person in persons)
 {
     Console.WriteLine(person.Name);
 }
-
-
 
 public class Person
 {
