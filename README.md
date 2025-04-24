@@ -1,8 +1,8 @@
 # 🧠 Learning .NET from ZTM
 
-![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=.net)  
-![C#](https://img.shields.io/badge/C%23-learning-blue?logo=csharp)  
-![Status](https://img.shields.io/badge/progress-ongoing-yellow)
+\
+\
+
 
 This repository contains my hands‑on solutions and practice projects from the **.NET course by Zero to Mastery (ZTM)**. I organize exercises by topic to reinforce key C# and .NET concepts.
 
@@ -10,9 +10,9 @@ This repository contains my hands‑on solutions and practice projects from the 
 
 ## 📁 Repository Structure
 
-- **Arrays and Collections/**  
-- **Basics/** (conditionals, loops, operators, strings, I/O, etc.)  
-- **Intermediate/** (enums, exception handling, structs, switch expressions, methods arguments, etc.)  
+- **Arrays and Collections/** (Arrays, ArrayList, List, Dictionary, Queue, Stack)
+- **Basics/** (conditionals, loops, operators, strings, I/O, etc.)
+- **Intermediate/** (enums, exception handling, structs, switch expressions, methods arguments, etc.)
 - **OOP/** (classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples)
 
 > **Tip:** Browse each folder to see detailed implementations and exercises.
@@ -44,8 +44,8 @@ From a frontend background, I’m learning C#, .NET, and backend fundamentals th
 
 ## 👤 Author
 
-**Keyner de Ávila Gutiérrez**  
-Frontend Developer expanding into backend with .NET  
-📍 Barranquilla, Colombia  
+**Keyner de Ávila Gutiérrez**\
+Frontend Developer expanding into backend with .NET\
+📍 Barranquilla, Colombia\
 📬 [LinkedIn](https://www.linkedin.com/in/kdeavila9) · [GitHub](https://github.com/kdeavila)
 
