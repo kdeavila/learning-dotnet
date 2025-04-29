@@ -10,20 +10,26 @@ This repository contains my hands‑on solutions and practice projects from the 
 
 ## 📁 Repository Structure
 
+- **Advanced/**
+  - `NamedArguments`            – Using named parameters in method calls.
+  - `OptionalArguments`         – Defining optional parameters with default values.
+  - `ExtensionMethods`          – Adding methods to existing types via extension methods.
+  - `ExerciseExtensionMethods`  – Hands‑on practice creating and using extension methods.
+
 - **Arrays and Collections/**
   - `Arrays`            – Working with fixed-size arrays.
   - `ArrayList`         – Dynamic arrays via `ArrayList`.
   - `List`              – Generic `List<T>` collection.
   - `Dictionary`        – Key/value pairs with `Dictionary<TKey, TValue>`.
   - `Queue`             – FIFO collection with `Queue<T>`.
-  - `Stack`             – LIFO collection with `Stack<T>`.
   - `RacingCalendar`    – Console-based racing calendar using `Queue<Race>`, `List<Driver>`, and `Stack<Driver>`.
+  - `Stack`             – LIFO collection with `Stack<T>`.
 
 - **Basics/** (conditionals, loops, operators, strings, I/O, etc.)
 - **Intermediate/** (enums, exception handling, structs, switch expressions, method arguments, etc.)
 - **OOP/** (classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples)
 
-> **Tip:** Explore each folder to find detailed exercises and implementations.
+> **Tip:** Explore each folder to find detailed exercises and implementations. Explore each folder to find detailed exercises and implementations.
 
 ---
 
