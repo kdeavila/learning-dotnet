@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalArguments", "Advanc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Advanced\ExtensionMethods\ExtensionMethods.csproj", "{1771FCAF-E124-4517-A8B6-41E2F86AB430}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseExtensionMethods", "Advanced\ExerciseExtensionMethods\ExerciseExtensionMethods.csproj", "{4BA2C060-0D38-41AB-9293-E8581FEDC623}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -271,6 +273,10 @@ Global
 		{1771FCAF-E124-4517-A8B6-41E2F86AB430}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1771FCAF-E124-4517-A8B6-41E2F86AB430}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1771FCAF-E124-4517-A8B6-41E2F86AB430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA2C060-0D38-41AB-9293-E8581FEDC623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA2C060-0D38-41AB-9293-E8581FEDC623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA2C060-0D38-41AB-9293-E8581FEDC623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA2C060-0D38-41AB-9293-E8581FEDC623}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -318,6 +324,7 @@ Global
 		{2628718B-6770-4BA0-92D0-31B4171CF333} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 		{57804762-F124-4CD1-B941-C5A9E01F9C37} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 		{1771FCAF-E124-4517-A8B6-41E2F86AB430} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
+		{4BA2C060-0D38-41AB-9293-E8581FEDC623} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
