@@ -107,6 +107,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferences", "Advan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableValueTypes", "Advanced\NullableValueTypes\NullableValueTypes.csproj", "{EC715055-8BA8-5D38-EF61-3D87499BB1E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordTypes", "Advanced\RecordTypes\RecordTypes.csproj", "{74A52088-9306-4EEE-800A-143249CBCE3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -301,6 +303,10 @@ Global
 		{EC715055-8BA8-5D38-EF61-3D87499BB1E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC715055-8BA8-5D38-EF61-3D87499BB1E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC715055-8BA8-5D38-EF61-3D87499BB1E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74A52088-9306-4EEE-800A-143249CBCE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A52088-9306-4EEE-800A-143249CBCE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A52088-9306-4EEE-800A-143249CBCE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A52088-9306-4EEE-800A-143249CBCE3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -353,6 +359,7 @@ Global
 		{A6BF9599-2B43-46E2-B26A-EAE607DD7EB2} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 		{201ADA9A-CE09-4661-981D-771D6B93E80D} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 		{EC715055-8BA8-5D38-EF61-3D87499BB1E5} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
+		{74A52088-9306-4EEE-800A-143249CBCE3E} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
