@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqFiltering", "LINQ\LinqF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqOrdering", "LINQ\LinqOrdering\LinqOrdering.csproj", "{D615ECF7-6D50-4765-A24D-E3FD7BBE506C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSelecting", "LINQ\LinqSelecting\LinqSelecting.csproj", "{E8EEF403-A919-485B-B4B5-A9568B26AEF5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{D615ECF7-6D50-4765-A24D-E3FD7BBE506C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D615ECF7-6D50-4765-A24D-E3FD7BBE506C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D615ECF7-6D50-4765-A24D-E3FD7BBE506C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8EEF403-A919-485B-B4B5-A9568B26AEF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EEF403-A919-485B-B4B5-A9568B26AEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EEF403-A919-485B-B4B5-A9568B26AEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EEF403-A919-485B-B4B5-A9568B26AEF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -390,6 +396,7 @@ Global
 		{08224285-43BB-45FC-873F-B556B66FDAE6} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
 		{6E6BBA8D-AEFA-4314-92AE-8EB457A554C5} = {4FBB688D-A589-4C11-8BE0-386A7F874BBA}
 		{D615ECF7-6D50-4765-A24D-E3FD7BBE506C} = {4FBB688D-A589-4C11-8BE0-386A7F874BBA}
+		{E8EEF403-A919-485B-B4B5-A9568B26AEF5} = {4FBB688D-A589-4C11-8BE0-386A7F874BBA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
