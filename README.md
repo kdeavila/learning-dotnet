@@ -1,9 +1,5 @@
 # .NET Learning Repository
 
-![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=.net)  
-![C#](https://img.shields.io/badge/C%23-learning-blue?logo=csharp)  
-![Status](https://img.shields.io/badge/progress-ongoing-yellow)
-
 This repository contains my hands-on C# and .NET exercises as I work through Microsoft Learn content. Projects are organized by topic in separate folders to help reinforce key concepts through practice.
 
 ---
@@ -12,11 +8,10 @@ This repository contains my hands-on C# and .NET exercises as I work through Mic
 
 * **Basics/** (conditionals, loops, operators, strings, I/O, etc.)
 * **Intermediate/** (enums, exception handling, structs, switch expressions, method arguments, etc.)
-* **Advanced/** (named/optional arguments, params keyword, extension methods, generics, nullable types, record types, async/await, custom exceptions)
+* **Advanced/** (named/optional arguments, params keyword, extension methods, generic types, nullable types, record types, async/await, custom exceptions)
 * **Arrays and Collections/** (arrays, lists, dictionaries, queues, stacks, and more)
+* **LINQ/** (filtering, grouping, ordering, selecting)
 * **OOP/** (classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples)
-
-Each folder holds one or more console applications or code samples focused on the named topic. Explore any folder and run the contained project(s) with `dotnet run`.
 
 \--- one or more console applications or code samples focused on the named topic. Explore any folder and run the contained project(s) with `dotnet run`.
 
