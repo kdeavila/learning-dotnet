@@ -11,8 +11,6 @@ Console.WriteLine("All tasks completed.");
 
 await Task.WhenAny(task1, task2, task3, task4);
 Console.WriteLine("At least one task completed.");
-
-
 async Task DoTask(string name, int delay)
 {
     Console.WriteLine($"Task {name} started.");
