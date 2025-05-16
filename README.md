@@ -1,43 +1,61 @@
 # .NET Learning Repository
 
-This repository contains my hands-on C# and .NET exercises as I work through Microsoft Learn content. Projects are organized by topic in separate folders to help reinforce key concepts through practice.
+A curated collection of my hands‑on C# and .NET exercises, aligned with Microsoft Learn and ZTM courses. Each topic lives in its own folder with console applications and code samples to practice and reinforce key concepts.
 
 ---
 
-## 📂 Structure
+## 📂 Project Structure
 
-* **Basics/** (conditionals, loops, operators, strings, I/O, etc.)
-* **Intermediate/** (enums, exception handling, structs, switch expressions, method arguments, etc.)
-* **Advanced/** (named/optional arguments, params keyword, extension methods, generic types, nullable types, record types, async/await, custom exceptions)
-* **Arrays and Collections/** (arrays, lists, dictionaries, queues, stacks, and more)
-* **LINQ/** (filtering, ordering, selecting, grouping, query syntax)
-* **OOP/** (classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples)
-* **Tests/** (unit tests for ProjectAccountingSystem using MSTest — includes `DepositTests.cs`, `MSTestSettings.cs`, `Test1.cs`)
+* **Basics/**
 
-\--- one or more console applications or code samples focused on the named topic. Explore any folder and run the contained project(s) with `dotnet run`.
+  * Conditionals, loops, operators, strings, I/O, etc.
+* **Intermediate/**
+
+  * Enums, exception handling, structs, switch expressions, method arguments, etc.
+* **Advanced/**
+
+  * Named/optional arguments, `params` keyword, extension methods, generics, nullable types, record types, `async/await`, custom exceptions
+* **Arrays and Collections/**
+
+  * Arrays, `List<T>`, `Dictionary<TKey,TValue>`, queues, stacks, and more
+* **LINQ/**
+
+  * Filtering, ordering, selecting, grouping, and query syntax
+* **OOP/**
+
+  * Classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples
+* **Tests/**
+
+  * Unit tests for the `ProjectAccountingSystem` using MSTest — includes `DepositTests.cs`, `CheckingAccountTest.cs`, `PremiumAccountTests.cs`, `MSTestSettings.cs`, `Test1.cs`
+
+Each folder contains one or more console apps or code samples. To explore:
+
+```bash
+cd <folder>
+dotnet run
+```
 
 ---
 
 ## 🚀 Getting Started
 
-1. **Clone the repo**
+1. **Clone the repository**
 
    ```bash
    git clone https://github.com/kdeavila/learning-dotnet.git
    cd learning-dotnet
    ```
-2. **Open the solution** (`.sln`) in Visual Studio or VS Code.
-3. **Navigate** to any folder (e.g., `Advanced/AsyncAwait`) and run:
+2. **Open the solution** (`.sln`) in Visual Studio or VS Code.
+3. **Run a sample**
 
    ```bash
+   cd <TopicFolder>
    dotnet run
    ```
-4. **Run unit tests**
-
-   From the repo root or inside the `Tests/AccountingSystem.Tests` folder, execute:
+4. **Run all unit tests**
 
    ```bash
-   dotnet test
+   dotnet test Tests/AccountingSystem.Tests
    ```
 
 ---
@@ -47,3 +65,4 @@ This repository contains my hands-on C# and .NET exercises as I work through Mic
 **Keyner de Ávila Gutiérrez**
 Barranquilla, Colombia
 [LinkedIn](https://www.linkedin.com/in/kdeavila9) · [GitHub](https://github.com/kdeavila)
+Feel free to explore, test, and provide feedback!
