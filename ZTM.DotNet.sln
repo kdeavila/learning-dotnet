@@ -127,6 +127,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountingSystem.Tests", "T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncAwait", "Advanced\AsyncAwait\AsyncAwait.csproj", "{0CF9A103-BA36-2401-DDE2-2821ABD1DB77}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetDebugging", "DotNetDebugging", "{3D82524F-12C1-4CB1-8F7F-C4D85A8B1043}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetDebugging", "DotNetDebugging\DotNetDebugging.csproj", "{15639668-ED97-16EC-7E64-11BD4A4C59D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -353,6 +357,10 @@ Global
 		{0CF9A103-BA36-2401-DDE2-2821ABD1DB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CF9A103-BA36-2401-DDE2-2821ABD1DB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CF9A103-BA36-2401-DDE2-2821ABD1DB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15639668-ED97-16EC-7E64-11BD4A4C59D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15639668-ED97-16EC-7E64-11BD4A4C59D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15639668-ED97-16EC-7E64-11BD4A4C59D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15639668-ED97-16EC-7E64-11BD4A4C59D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -413,6 +421,7 @@ Global
 		{08C8126D-FC31-4B4A-BBB8-0F50A1F8CDF5} = {4FBB688D-A589-4C11-8BE0-386A7F874BBA}
 		{6CB6D9F3-76DB-5AF4-690E-34A7E70295B0} = {C6FE012B-E23F-41D8-B4B1-DDC7BEA9B263}
 		{0CF9A103-BA36-2401-DDE2-2821ABD1DB77} = {32F4BCA8-D252-4581-890D-5741A68A3D33}
+		{15639668-ED97-16EC-7E64-11BD4A4C59D7} = {3D82524F-12C1-4CB1-8F7F-C4D85A8B1043}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
