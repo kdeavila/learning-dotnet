@@ -4,15 +4,13 @@ using LearnMyCalculatorApp;
 namespace LearnMyCalculatorApp.Tests
 {
     [TestClass]
-    public class CalculatorTests
+    public sealed class Test1
     {
         [TestMethod]
         public void CalculatorNullTest()
         {
             var calculator = new Calculator();
             Assert.IsNotNull(calculator);
-
-            Assert.IsTrue(false);
         }
     }
 }
