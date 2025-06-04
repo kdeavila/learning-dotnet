@@ -157,6 +157,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlpineSkiHouse", "Azure\Alp
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Azure", "Azure", "{44E9146D-740A-4464-9A88-0E2C5C2F3658}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetDependencyInjection", "DotNetDependencyInjection", "{3C2CB380-2D47-4CD3-9B6B-0B87EF11EBE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetDependencyInjection", "DotNetDependencyInjection\DotNetDependencyInjection.csproj", "{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -415,6 +419,10 @@ Global
 		{FFF876E4-6282-4E50-830A-C915AC4E3D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFF876E4-6282-4E50-830A-C915AC4E3D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFF876E4-6282-4E50-830A-C915AC4E3D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -483,6 +491,7 @@ Global
 		{2C0C44E7-0FF1-46D9-BD18-94935F61B18A} = {EF5CEDAF-7331-426B-A16B-D80638BA7E35}
 		{490C593A-9F87-A497-E6D0-C587D686351E} = {B987DA11-3A4D-4ABB-A822-4F36EC75A9FB}
 		{FFF876E4-6282-4E50-830A-C915AC4E3D25} = {44E9146D-740A-4464-9A88-0E2C5C2F3658}
+		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2} = {3C2CB380-2D47-4CD3-9B6B-0B87EF11EBE9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
