@@ -161,6 +161,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetDependencyInjection",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetDependencyInjection", "DotNetDependencyInjection\DotNetDependencyInjection.csproj", "{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetPublish", "DotNetPublish", "{0D3F82CB-7B63-4C05-B247-C81B8EB192E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebApp", "DotNetPublish\MyWebApp\MyWebApp.csproj", "{21C7B00C-9629-42CF-AFB5-66F6F8B93366}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -423,6 +427,10 @@ Global
 		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C7B00C-9629-42CF-AFB5-66F6F8B93366}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C7B00C-9629-42CF-AFB5-66F6F8B93366}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C7B00C-9629-42CF-AFB5-66F6F8B93366}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C7B00C-9629-42CF-AFB5-66F6F8B93366}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -492,6 +500,7 @@ Global
 		{490C593A-9F87-A497-E6D0-C587D686351E} = {B987DA11-3A4D-4ABB-A822-4F36EC75A9FB}
 		{FFF876E4-6282-4E50-830A-C915AC4E3D25} = {44E9146D-740A-4464-9A88-0E2C5C2F3658}
 		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2} = {3C2CB380-2D47-4CD3-9B6B-0B87EF11EBE9}
+		{21C7B00C-9629-42CF-AFB5-66F6F8B93366} = {0D3F82CB-7B63-4C05-B247-C81B8EB192E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
