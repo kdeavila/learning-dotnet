@@ -1,9 +1,3 @@
-**Restructuring README**
-
-El usuario desea actualizar el README agregando más carpetas sin crear listas largas. Quiere abordar temas como Blazor, inyección de dependencias, middlewares, y más
-
-Pensado durante unos segundos
-
 # .NET Learning Repository
 
 A curated collection of hands-on C# and .NET exercises, aligned with Microsoft Learn (and earlier ZTM) courses. Each topic lives in its own folder with console applications and code samples to practice and reinforce key concepts.
