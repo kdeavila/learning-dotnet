@@ -1,34 +1,50 @@
 # .NET Learning Repository
 
-A curated collection of my hands‑on C# and .NET exercises, aligned with Microsoft Learn and ZTM courses. Each topic lives in its own folder with console applications and code samples to practice and reinforce key concepts.
+A curated collection of hands-on C# and .NET exercises, aligned with Microsoft Learn (and earlier ZTM) courses. Each topic lives in its own folder with console applications and code samples to practice and reinforce key concepts.
 
 ---
 
 ## 📂 Project Structure
 
+Below are the main topic folders. Several additional folders cover more advanced .NET areas (Blazor, Dependency Injection, Middleware, APIs, publishing, testing, etc.)—feel free to browse for details.
+
 * **Basics/**
+  Conditionals, loops, operators, strings, console I/O, and related fundamentals.
 
-  * Conditionals, loops, operators, strings, I/O, etc.
 * **Intermediate/**
+  Enums, exception handling, structs, switch expressions, method arguments, and more.
 
-  * Enums, exception handling, structs, switch expressions, method arguments, etc.
 * **Advanced/**
+  Named/optional arguments, `params` keyword, extension methods, generics, nullable types, record types, `async/await`, custom exceptions.
 
-  * Named/optional arguments, `params` keyword, extension methods, generics, nullable types, record types, `async/await`, custom exceptions
 * **Arrays and Collections/**
+  Array tutorials, `List<T>`, `Dictionary<TKey, TValue>`, queues, stacks, and final projects like the console-based Racing Calendar.
 
-  * Arrays, `List<T>`, `Dictionary<TKey,TValue>`, queues, stacks, and more
 * **LINQ/**
+  Filtering, ordering, selecting, grouping, and query-syntax examples.
 
-  * Filtering, ordering, selecting, grouping, and query syntax
 * **OOP/**
+  Classes, inheritance, interfaces, polymorphism, method overloading, namespaces, and small project examples.
 
-  * Classes, inheritance, interfaces, polymorphism, method overloading, namespaces, project examples
 * **Tests/**
+  Unit tests for the `ProjectAccountingSystem` and other exercises, using MSTest.
 
-  * Unit tests for the `ProjectAccountingSystem` using MSTest — includes `DepositTests.cs`, `CheckingAccountTest.cs`, `PremiumAccountTests.cs`, `MSTestSettings.cs`, `Test1.cs`
+> **Other folders you’ll find**
+>
+> * **Azure/AlpineSkiHouse/** – Azure deployment examples
+> * **DotNetAPI/** – Building and consuming Web APIs
+> * **DotNetBlazor/BlazorApp/** – Blazor Server/WebAssembly projects
+> * **DotNetDebugging/** – Debugging techniques and examples
+> * **DotNetDependencies/** – Using packages like Humanizer and more
+> * **DotNetDependencyInjection/** – Exploring built-in DI patterns
+> * **DotNetFiles/** – Working with files and directories
+> * **DotNetFirstApp/** – First .NET console application tutorials
+> * **DotNetMiddleware/** – Custom middleware in ASP.NET Core
+> * **DotNetPublish/** – Publishing and deploying ASP.NET Core to Azure
+> * **DotNetRazorPages/ContosoPizza/** – Razor Pages CRUD examples
+> * **DotNetTests/** – Additional test projects beyond AccountingSystem
 
-Each folder contains one or more console apps or code samples. To explore:
+Each folder contains one or more console apps (or web apps) and code samples. To explore:
 
 ```bash
 cd <folder>
@@ -45,13 +61,16 @@ dotnet run
    git clone https://github.com/kdeavila/learning-dotnet.git
    cd learning-dotnet
    ```
-2. **Open the solution** (`.sln`) in Visual Studio or VS Code.
+
+2. **Open the solution** (`.sln`) in Visual Studio or VS Code.
+
 3. **Run a sample**
 
    ```bash
    cd <TopicFolder>
    dotnet run
    ```
+
 4. **Run all unit tests**
 
    ```bash
@@ -64,5 +83,6 @@ dotnet run
 
 **Keyner de Ávila Gutiérrez**
 Barranquilla, Colombia
-[LinkedIn](https://www.linkedin.com/in/kdeavila9) · [GitHub](https://github.com/kdeavila)
+[LinkedIn](https://www.linkedin.com/in/kdeavila9/) · [GitHub](https://github.com/kdeavila)
+
 Feel free to explore, test, and provide feedback!
