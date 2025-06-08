@@ -169,6 +169,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DotNetBlazor", "DotNetBlazo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp", "DotNetBlazor\BlazorApp\BlazorApp.csproj", "{4EB2BF7C-8A97-48B6-AE3F-A341B1EBC5ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazingPizza", "DotNetBlazor\BlazingPizza\BlazingPizza.csproj", "{1DBF3071-575C-0145-22EA-45F4CDF555D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -439,6 +441,10 @@ Global
 		{4EB2BF7C-8A97-48B6-AE3F-A341B1EBC5ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EB2BF7C-8A97-48B6-AE3F-A341B1EBC5ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EB2BF7C-8A97-48B6-AE3F-A341B1EBC5ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DBF3071-575C-0145-22EA-45F4CDF555D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBF3071-575C-0145-22EA-45F4CDF555D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBF3071-575C-0145-22EA-45F4CDF555D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBF3071-575C-0145-22EA-45F4CDF555D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -510,6 +516,7 @@ Global
 		{CF88E7A3-91DF-AFAF-486B-CAAF72247EC2} = {3C2CB380-2D47-4CD3-9B6B-0B87EF11EBE9}
 		{21C7B00C-9629-42CF-AFB5-66F6F8B93366} = {0D3F82CB-7B63-4C05-B247-C81B8EB192E8}
 		{4EB2BF7C-8A97-48B6-AE3F-A341B1EBC5ED} = {1560FC49-1998-4D84-AC26-6241BC93A6BD}
+		{1DBF3071-575C-0145-22EA-45F4CDF555D9} = {1560FC49-1998-4D84-AC26-6241BC93A6BD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4FD5D7B2-9B5C-499B-983F-5C30C4A44FA6}
